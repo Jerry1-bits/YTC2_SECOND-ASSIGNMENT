@@ -1,9 +1,8 @@
 body{
-	border:black;
 	background-image: url(./images/IT.png);
 	background-repeat: no-repeat;
-	background-position: text-top right;
-	background-size: 20%; 
+	background-position-x: right;
+	background-size: 10%; 
 	font-family:"montserrat", sans-serif;
 	
 }
